@@ -1,1 +1,1 @@
-# LeNet5-Tutorial
+# LeNet5 Tutorial for Gradient Notebooks
